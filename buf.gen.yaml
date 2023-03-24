@@ -3,7 +3,7 @@ version: v1
 managed:
   enabled: true
   go_package_prefix:
-    default: github.com/x0y14/gen
+    default: github.com/x0y14/chat2/gen
 
 plugins:
   - name: go
